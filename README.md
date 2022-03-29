@@ -14,3 +14,7 @@ On Manual Tester course I had possibility to learn tools like :
 - ***MySQL Workbench***
 - ***Postman***
 - ***SoapUI***
+# Cerificates and Courses
+___________
+- **ISTQB® Certified Tester Foundation Level - No17803/CTFL/2022
+- **Manual Tester Course - CodersLab IT School
