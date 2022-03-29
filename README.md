@@ -6,4 +6,11 @@ My name is Mateusz Nemec, I graduated Technical University of Łódź, my major 
 In mid-May, I will start the Automation Tester course at Coders Lab school. I think this is the best moment to start work with my first project.
 # Tools
 _________
+On Manual Tester course I had possibility to learn tools like :
 
+- ***Jira*** + ***TestFLO***
+- ***Trello***
+- ***TestLink***
+- ***MySQL Workbench***
+- ***Postman***
+- ***SoapUI***
