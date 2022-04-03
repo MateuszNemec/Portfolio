@@ -19,4 +19,4 @@ ___________
 - **Manual Tester Course - CodersLab IT School**
 # My test case examples
 _______
-https://docs.google.com/spreadsheets/d/1d_n6wyLLJPUOH38Wy5jD_uMUSKDdi9E4/edit?usp=sharing&ouid=101039476763667277607&rtpof=true&sd=true
+[Example test cases for bank site](https://docs.google.com/spreadsheets/d/1d_n6wyLLJPUOH38Wy5jD_uMUSKDdi9E4/edit?usp=sharing&ouid=101039476763667277607&rtpof=true&sd=true)
